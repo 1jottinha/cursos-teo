@@ -1,0 +1,24 @@
+git init.    -> cria um repo git na pasta atual
+git status   -> mostra o status do trabalho (cada arquivo)
+git add nome_arquivo -> adciona arquivo para ser commitado
+git commit -m "msg" -> faz commit do que estava para ser commitado
+git log      -> mostra todos o historico de commit
+
+
+##FLUXO TRABALHO
+
+1.mkdir criar diretorio do projeto mkdir
+2.git init . :iniciar git dentro do diretorio
+3.editar ou criar arquivos
+4.git status
+5.git add <arq>
+6.git status
+7.git commit -m "msg"
+8.git status
+9.editar/criar +arq
+
+git checkout -b secundaria -> cria uma ramificação BRANCH (-b apenas para criar)
+
+git branch -> ver quais branchs existem
+git branch -D secundaria   -> remove a branch (n pode estar dentro dela)
+

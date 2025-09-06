@@ -1,0 +1,19 @@
+ls -> lista arquivos
+-a -> arquivos ocultos 
+cd -> move entre diretorios
+lwd -> mostra o lugar/caminho do diretorio
+cat -> mostra o que tem dentro do arquivo
+
+(comandos-git)
+git init . -> inicializa repositorio git vazio
+rm -> remove arquivo ou diretorio
+rm -rf -> remove de forma recursiva e forçada todos diretorios
+
+git status -> 
+
+git add -> prepara o que pode ser commited
+
+git commit -m "xxx" ->
+
+git config --global user.EMAIL/NAME "xxx" ->
+
